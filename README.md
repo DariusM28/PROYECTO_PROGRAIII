@@ -8,4 +8,4 @@
 
 ### CORRIDAS DEL PROGRAMA
  <img src="https://github.com/DariusM28/PROYECTO_PROGRAIII/blob/main/PROYECTO%201%20PROGRAIII/1.png?raw=true"
-    width="60px" height="60px">
+    width="1000px" height="1000px">
